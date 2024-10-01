@@ -1,0 +1,17 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://raulhr16.github.io/prueba' 
+title: 'Rauli'
+
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'es'
+
+
