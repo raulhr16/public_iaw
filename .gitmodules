@@ -1,0 +1,6 @@
+[submodule "themes/themes/qubt"]
+	path = themes/themes/qubt
+	url = https://github.com/chrede88/qubt
+[submodule "themes/qubt"]
+	path = themes/qubt
+	url = https://github.com/chrede88/qubt
